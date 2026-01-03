@@ -9,3 +9,9 @@ I am also a tutor for [Seibert Stiftung](https://programmieren.de), a non profit
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+## Publicly hosted projects
+
+| Project            | Description                                                                                                                         | Github                                        | Website                                 |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----------------------------------------|
+| Timtable Stack     | A tool that displays university timetables for multiple users, providing a clear overview of each person’s schedule next to another | https://github.com/NilsGke/timetable-stack    | https://timetable-stack.nilsgke.dev     |
+| Klugscheisser Quiz | A fully local jeopardy browser clone                                                                                                | https://github.com/NilsGke/klugscheisser-quiz | https://klugscheisser-quiz.nilsgke.dev/ |
