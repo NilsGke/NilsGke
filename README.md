@@ -1,17 +1,21 @@
-# Hey there
+# Hey there 👋
 I am Nils, a student from Germany.  
+I study CS at [Hochschule Rhein Main](https://www.hs-rm.de/).  
+I also work at [Seibert Group](https://astro.build/agencies/seibert/) as a Astro Developer.  
 I am also a tutor for [Seibert Stiftung](https://programmieren.de), a non profit to improve digital education of young people.
 
-## Favs
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+I am a fan of
+- Tailwind
+- Astro
+- Typescript
+- React
+- Nextjs / T3 Stack
+- Selfhosting
+- FPV Drones
 
 ## Publicly hosted projects
 
 | Project            | Description                                                                                                                         | Github                                        | Website                                 |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----------------------------------------|
 | Timtable Stack     | A tool that displays university timetables for multiple users, providing a clear overview of each person’s schedule next to another | https://github.com/NilsGke/timetable-stack    | https://timetable-stack.nilsgke.dev     |
-| Klugscheisser Quiz | A fully local jeopardy browser clone                                                                                                | https://github.com/NilsGke/klugscheisser-quiz | https://klugscheisser-quiz.nilsgke.dev/ |
+| Klugscheisser Quiz | A fully local jeopardy game platform in the browser(currently rewriting -> [NilsGke/jeopardy](github.com/nilsgke/jeopardy))         | https://github.com/NilsGke/klugscheisser-quiz | https://klugscheisser-quiz.nilsgke.dev/ |
